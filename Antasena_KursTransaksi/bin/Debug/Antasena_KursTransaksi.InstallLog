@@ -1,0 +1,15 @@
+﻿Installing assembly 'E:\YAQUB\BI\Code_Git_CR\AntasenaSvc\AntasenaSvc\Antasena_KursTransaksi\bin\Debug\Antasena_KursTransaksi.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\YAQUB\BI\Code_Git_CR\AntasenaSvc\AntasenaSvc\Antasena_KursTransaksi\bin\Debug\Antasena_KursTransaksi.InstallLog
+   assemblypath = E:\YAQUB\BI\Code_Git_CR\AntasenaSvc\AntasenaSvc\Antasena_KursTransaksi\bin\Debug\Antasena_KursTransaksi.exe
+   logtoconsole = 
+Installing service Antasena_KursTransaksi...
+Service Antasena_KursTransaksi has been successfully installed.
+Creating EventLog source Antasena_KursTransaksi in log Application...
+Committing assembly 'E:\YAQUB\BI\Code_Git_CR\AntasenaSvc\AntasenaSvc\Antasena_KursTransaksi\bin\Debug\Antasena_KursTransaksi.exe'.
+Affected parameters are:
+   i = 
+   logfile = E:\YAQUB\BI\Code_Git_CR\AntasenaSvc\AntasenaSvc\Antasena_KursTransaksi\bin\Debug\Antasena_KursTransaksi.InstallLog
+   assemblypath = E:\YAQUB\BI\Code_Git_CR\AntasenaSvc\AntasenaSvc\Antasena_KursTransaksi\bin\Debug\Antasena_KursTransaksi.exe
+   logtoconsole = 
